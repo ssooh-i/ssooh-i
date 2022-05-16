@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssooh-i
-- 👀 I’m interested in Front End
-- 🌱 I’m currently learning Python, html, css, java
+- 👀 I’m interested in FrontEnd
+- 🌱 I’m currently learning Python, HTML, CSS, Java
 
 <!---
 ssooh-i/ssooh-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
