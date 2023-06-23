@@ -18,5 +18,3 @@
   <h4>👀 I'm a front-end developer. And I'm also interested in UI/UX design</h4>
   <h4>🌱 I’m currently studying Next.js, Three.js, TypeScript</h4>
 </div>
-bg_color=30,e96443,904e95
-![header](https://capsule-render.vercel.app/api?type=waving&bg_color=30,e96443,904e95&height=230&section=header&text=ssooh-i!&fontColor=000&fontSize=80&animation=fadeIn&fontAlignY=38&desc=I'm%20still%20growing%20up%20as%20a%20front-end%20developer!&descAlignY=63&descAlign=68)
