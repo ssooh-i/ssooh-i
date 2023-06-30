@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/Recoil-3399FF?style=flat&logo=react&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=FFF"/>
+  <h4>안녕하세요. 웹 프론트엔드 개발자를 꿈꾸는 김소희입니다! </h4>
   <img src="https://img.shields.io/badge/next.js-CECECE?style=flat&logo=next.js&logoColor=000"/>
 </div>
 
