@@ -17,4 +17,5 @@
   <h4>👋 Hi, I’m @ssooh-i</h4>
   <h4>👀 I'm a front-end developer. And I'm also interested in UI/UX design</h4>
   <h4>🌱 I’m currently studying Next.js, Three.js, TypeScript</h4>
+  Thank you for leading!
 </div>
